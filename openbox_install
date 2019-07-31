@@ -1,0 +1,7 @@
+Primeiro tem que instalar o sistema, claro.
+1. Install lxpanel
+2. Install polkit
+3. Install polkit-gnome
+4. Configure autostart.sh adding "sleep 1 && /usr/libexec/polkit-gnome-authentication-agent-1 &" to it
+5. If you want, install a dock. Preference: lattedock
+6. Build MenuMaker. Site: http://menumaker.sourceforge.net/
